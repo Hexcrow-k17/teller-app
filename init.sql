@@ -1,4 +1,4 @@
-CREATE DATABSE teller_db;
+CREATE DATABASE teller_db;
 
 USE teller_db;
 
